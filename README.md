@@ -21,7 +21,7 @@ Cette application est un catalogue de produits réalisé avec **Next.js** et **T
 1. Clonez ce repository :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/my-shop.git
+   git clone https://github.com/raniaklabi/my-shop
 2. Installez les dépendances :
 cd my-shop
 npm install
